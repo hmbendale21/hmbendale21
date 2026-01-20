@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hmbendale21/hmbendale21/main/ChatGPT%20Image%20Jan%2020,%202026,%2007_10_24%20PM.png" alt="Himanshu Bendale Banner" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Himanshu Bendale</h1>
 <h3 align="center">Aspiring AI & Data Science Engineer | Python & Web developer Developer</h3>
 
