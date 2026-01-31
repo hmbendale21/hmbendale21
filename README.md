@@ -37,6 +37,7 @@
 
 ### 📂 Featured Repositories
 - 🔹 **Python** – All Python practice codes & concepts
+- 🔹 **Numpy** - All codes
 - 🔹 **Web Devlopment** - 1.HTML
 - 🔹 **Part 2** - 2. CSS , Javascript *(coming soon)*
 - 🔹 **ML Practice** – Learning-based ML notebooks *(Coming Soon)*  
