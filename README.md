@@ -1,118 +1,143 @@
 <p align="center">
   <img src="assets/banner.png" width="100%" alt="Cyber Banner">
 </p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Cybersecurity+Engineer;Artificial+Intelligence;Machine+Learning;Ethical+Hacking;Building+SecureSphere;Always+Learning..." />
+</p>
+
+---
+
+# 🛡 SECURITY OPERATIONS CENTER
+
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Cybersecurity+Engineer;Artificial+Intelligence;Machine+Learning;Python+Developer;Building+SecureSphere" />
+![System](https://img.shields.io/badge/SYSTEM-ONLINE-00ff88?style=for-the-badge)
+![Threat](https://img.shields.io/badge/THREAT-LOW-00D9FF?style=for-the-badge)
+![Firewall](https://img.shields.io/badge/FIREWALL-ACTIVE-0078D7?style=for-the-badge)
+![Encryption](https://img.shields.io/badge/ENCRYPTION-AES--256-22c55e?style=for-the-badge)
 
 </p>
 
-# 🛡 Cyber Operations Center
-
 <table>
 <tr>
+
 <td width="50%">
 
 ## 🔐 Security Status
 
 | Component | Status |
 |-----------|--------|
-| 🟢 System | **ONLINE** |
-| 🛡 Firewall | **ACTIVE** |
-| 🔒 Encryption | **AES-256** |
-| 🚨 Threat Level | **LOW** |
-| 🤖 AI Engine | **RUNNING** |
-| 📡 SOC Monitor | **ACTIVE** |
-| 💾 Backup | **HEALTHY** |
-| 🌐 Network | **SECURE** |
+| 🟢 System | ONLINE |
+| 🛡 Firewall | ACTIVE |
+| 🚨 Threat Level | LOW |
+| 🤖 AI Engine | RUNNING |
+| 📡 SOC Monitor | ACTIVE |
+| 🔒 Encryption | AES-256 |
+| 🌐 Network | SECURE |
 
 </td>
 
 <td width="50%">
 
-## 👨‍💻 Operator
+## 💻 Operator Console
 
 ```bash
-> whoami
+root@cyber-soc:~$ whoami
 
 Himanshu Bendale
 
-> role
+root@cyber-soc:~$ id
 
-Cybersecurity Enthusiast
-AI & ML Student
+Role          : Ai + Cybersecurity
 
-> current_project
+Mission       : SecureSphere
 
-SecureSphere
+Mode          : Learning
 
-> status
+Focus         : AI • Cybersecurity • Linux
 
-ONLINE
+root@cyber-soc:~$ uptime
+
+Status        : ONLINE
+
+Threat Intel  : ACTIVE
+
+Firewall      : ENABLED
 ```
 
 </td>
+
 </tr>
 </table>
 
-# 🎯 Current Mission
+---
+
+# 🚨 Live Threat Monitor
 
 ```text
-✔ Building SecureSphere
-✔ Learning AI Security
-✔ Exploring Malware Analysis
-✔ Practicing Linux & Networking
-✔ Contributing to Open Source
-✔ Handpractice on tryhackme
+═══════════════════════════════════════════════
+
+Threat Level          LOW
+
+Firewall              ACTIVE
+
+AI Detection          RUNNING
+
+Endpoint Security     ENABLED
+
+SOC Monitoring        ACTIVE
+
+System Integrity      VERIFIED
+
+Logs                  STREAMING
+
+═══════════════════════════════════════════════
 ```
 
-# ⚙️ Skills Matrix
+---
 
-| Domain | Technologies |
-|--------|--------------|
-| 💻 Languages | Python • Java • JavaScript |
+# 🎯 Active Operations
+
+```text
+[✓] SecureSphere Development
+
+[✓] TryHackMe Labs
+
+[✓] Malware Research
+
+[✓] Linux Hardening
+
+[✓] AI Threat Detection
+
+[✓] Open Source Learning
+```
+
+---
+
+# ⚙ Security Stack
+
+| Category | Technologies |
+|----------|--------------|
+| 💻 Programming | Python • Java • JavaScript |
 | 🌐 Web | HTML • CSS • Bootstrap |
-| 🤖 AI/ML | Machine Learning • TensorFlow • OpenCV |
-| 🔐 Cybersecurity | Linux • Networking • OWASP |
+| 🤖 AI | Machine Learning • TensorFlow • OpenCV |
+| 🔐 Cybersecurity | Linux • Networking • OWASP • TryHackMe |
 | 🛠 Tools | Git • GitHub • VS Code |
 
-# 🚨 Threat Dashboard
-
-```text
-██████████████████████  Firewall        ACTIVE
-
-██████████████████████  Encryption      AES-256
-
-██████████████████████  Threat Level    LOW
-
-██████████████████████  AI Detection    RUNNING
-
-██████████████████████  SecureSphere    DEVELOPMENT
-```
-
-# 👨‍💻 About Me
-
-```yaml
-Name: Himanshu Bendale
-Location: Maharashtra, India 🇮🇳
-Education: B.E. Artificial Intelligence & Data Science
-Interests:
-  - Cybersecurity
-  - Artificial Intelligence
-  - Machine Learning
-Current Focus:
-  - SecureSphere
-  - AI Security
-  - Linux
-```
+---
 
 # 🚀 Featured Projects
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| 🛡 SecureSphere | Cybersecurity Dashboard | 🟢 Active |
-| 🐆 Leopard Detection | AI Computer Vision | 🟢 Active |
-| 🤖 CyberMind AI | AI Security Research | 🔵 Planning |
+| 🛡 SecureSphere | AI Powered Cybersecurity Portal | 🟢 Active |
+| 🐆 Leopard Detection | Computer Vision | 🟢 Active |
+| 🤖 CyberMind AI | AI Security Platform | 🔵 Planning |
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -134,74 +159,54 @@ Current Focus:
 
 </p>
 
+---
+
+# 📡 Communication Terminal
+
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=hmbendale21&label=Detected+Connections&color=0e75b6&style=flat"/>
-
-</p>
-
-# 📡 Secure Communication Channels
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                CYBER COMMUNICATION TERMINAL                 ║
-╠══════════════════════════════════════════════════════════════╣
-║ STATUS        : 🟢 ONLINE                                  ║
-║ ENCRYPTION    : 🔐 TLS 1.3                                 ║
-║ CONNECTION    : 🛰 SECURE                                  ║
-║ RESPONSE TIME : ⚡ < 24 Hours                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
 <a href="mailto:himanshubendale88@gmail.com">
-<img src="https://img.shields.io/badge/📧%20EMAIL-CONTACT-red?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/hmbendale21">
-<img src="https://img.shields.io/badge/🌐%20GITHUB-hmbendale21-black?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/himanshu-bendale-206973283/">
-<img src="https://img.shields.io/badge/💼%20LINKEDIN-CONNECT-blue?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://www.instagram.com/himanshu_bendale21/">
-<img src="https://img.shields.io/badge/📸%20INSTAGRAM-FOLLOW-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-</div>
-
----
-
-## 💬 Terminal Access
+</p>
 
 ```bash
-$ ping Himanshu
+root@cyber-soc:~$ contacts
 
-PING successful...
-
-Name        : Himanshu Bendale
-Role        : AI & Cybersecurity Engineer
 GitHub      : github.com/hmbendale21
+
 LinkedIn    : linkedin.com/in/himanshu-bendale-206973283
+
 Instagram   : @himanshu_bendale21
+
 Email       : himanshubendale88@gmail.com
 
-Status      : ONLINE 🟢
-Availability: Open for Collaboration
+Status      : ACCEPTING COLLABORATIONS
+
 Response    : < 24 Hours
 ```
 
-```python
-while alive:
+---
 
-    learn()
+```bash
+root@cyber-soc:~$ exit
 
-    build()
+Saving logs...
 
-    secure()
+Disconnecting...
 
-    repeat()
+Stay Secure. 🛡
 ```
