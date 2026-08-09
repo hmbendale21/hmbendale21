@@ -166,19 +166,23 @@ Logs                  STREAMING
 <p align="center">
 
 <a href="mailto:himanshubendale88@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 
 <a href="https://github.com/hmbendale21">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 <a href="https://www.linkedin.com/in/himanshu-bendale-206973283/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://hmbendale.vercel.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-FFD700?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio">
 </a>
 
 <a href="https://www.instagram.com/himanshu_bendale21/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 
 </p>
@@ -197,8 +201,6 @@ Email       : himanshubendale88@gmail.com
 Status      : ACCEPTING COLLABORATIONS
 
 Response    : < 24 Hours
-```
-
 ---
 
 ```bash
