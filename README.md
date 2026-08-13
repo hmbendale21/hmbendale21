@@ -131,7 +131,7 @@ Logs                  STREAMING
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| 🛡 SecureSphere | AI Powered Cybersecurity Portal | 🟢 Active |
+| 🛡 SecureSphere | AI Powered Cybersecurity Portal | 🟢 live <a href="https://securespherehb.vercel.app/"> |
 | 🐆 Leopard Detection | Computer Vision | 🟢 Active |
 | 🤖 CyberMind AI | AI Security Platform | 🔵 Planning |
 
